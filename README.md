@@ -192,7 +192,7 @@ This Online Course Registration System was developed as an educational project t
 
 ## License
 
-This project is available for educational purposes. Please contact the original author for commercial use permissions.
+This project is available for educational purposes.
 
 ---
 
